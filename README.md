@@ -295,6 +295,14 @@
 * Zapier https://zapier.com/engineering/
 * Zendesk https://medium.com/zendesk-engineering
 * Zendesk(old) https://developer.zendesk.com/blog
+* Zenefits https://engineering.zenefits.com/posts/
+* Zerodha https://zerodha.tech/
+* Zillow https://www.zillow.com/engineering/
+* Zomato https://engineering.zomato.com/
+* Zoosk https://about.zoosk.com/en/engineering-blog/
+* Zulily https://engineering.zulily.com/
+* Zumba http://tech.zumba.com/
+* Zynga https://www.zynga.com/blogs/engineering
 
 ### Individuals/Group Contributors
 

@@ -581,6 +581,9 @@
 #### C technologies
 * Crystal https://crystal-lang.org/
 
+#### D technologies
+* Devtoolstips https://devtoolstips.org/
+
 #### G technologies
 * Go https://blog.golang.org/
 

@@ -421,6 +421,7 @@
       <outline type="rss" text="Android" title="Android" xmlUrl="https://android-developers.googleblog.com/feeds/posts/default" htmlUrl="https://android-developers.blogspot.com/"/>
       <outline type="rss" text="Bootstrap.com" title="Bootstrap.com" xmlUrl="https://blog.getbootstrap.com/feed.xml" htmlUrl="https://blog.getbootstrap.com/"/>
       <outline type="rss" text="Crystal" title="Crystal" xmlUrl="https://crystal-lang.org/feed.xml" htmlUrl="https://crystal-lang.org/"/>
+      <outline type="rss" text="Devtoolstips" title="Devtoolstips" xmlUrl="https://devtoolstips.org/feed.xml" htmlUrl="https://devtoolstips.org/"/>
       <outline type="rss" text="Go" title="Go" xmlUrl="https://blog.golang.org/blog/feed.atom" htmlUrl="https://blog.golang.org/"/>
       <outline type="rss" text="IPFS" title="IPFS" xmlUrl="https://blog.ipfs.tech/index.xml" htmlUrl="https://ipfs.io/blog/"/>
       <outline type="rss" text="jOOQ" title="jOOQ" xmlUrl="https://blog.jooq.org/feed/" htmlUrl="https://blog.jooq.org/"/>
